@@ -53,3 +53,7 @@ next-env.d.ts
 /e2e/.auth/
 /playwright-report/
 /test-results/
+
+# backups and dumps
+*.dump
+*.bak
